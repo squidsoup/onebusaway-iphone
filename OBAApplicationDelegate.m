@@ -39,7 +39,7 @@
 static NSString * kOBAHiddenPreferenceUserId = @"OBAApplicationUserId";
 static NSString * kOBASelectedTabIndexDefaultsKey = @"OBASelectedTabIndexDefaultsKey";
 static NSString * kOBAShowExperimentalRegionsDefaultsKey = @"kOBAShowExperimentalRegionsDefaultsKey";
-static NSString * kOBADefaultRegionApiServerName = @"regions.onebusaway.org";
+static NSString * kOBADefaultRegionApiServerName = @"www.trackabus.co.nz";
 static NSString *const kTrackingId = @"UA-2423527-17";
 static NSString *const kAllowTracking = @"allowTracking";
 static BOOL const kGaDryRun = NO;
